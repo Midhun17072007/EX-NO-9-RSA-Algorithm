@@ -69,8 +69,8 @@ return 0;
 } 
 ```
 ## Output:
+<img width="633" height="366" alt="image" src="https://github.com/user-attachments/assets/37a64bbb-e6e2-4fb3-87a8-3036476b6bf0" />
 
-![Uploading image.png…]()
 
 
 ## Result:
